@@ -1,7 +1,3 @@
-###실행하기 전###  
-pip install -r requirements.txt  
-//requirements 설치
-
 ### API 설명서
 
 REQ: Required, 반드시 써야 하는 필드
